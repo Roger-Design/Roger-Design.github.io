@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setup and Configuration at Last
+tags: Personal Projects Servers
 ---
 
 ## Incomparable To The Past
