@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pointing to the WAN
+tags: Personal Projects Servers
 ---
 
 ## Phase 1 Complete
