@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The First of Many
-tags: personal posts
+tags: Personal Projects Servers
 ---
 
 ## Server Selection
