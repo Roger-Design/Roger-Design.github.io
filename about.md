@@ -26,49 +26,27 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+My name is Roger, and this is my blog to post about different topics I am reading about, progress on projects and whatever shameless self promotion I can bring myself to do!
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+I have named the blog, and plan on naming most personal projects, Huaso Tech to reflect the two main influences on my life. Having grown up in the middle of nowhere with farm animals and parents who had a voracious appetite for all things science fiction and technological I had two very different primary influences. I learned to trim hooves, muck stalls, build motorized little toys, eventually rewire a boat and process poultry for consumption.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+I want to learn the most basic fundamentals of how things work, and produce simple and effective technological tools for people. I am currently studying Computer Science in the United Kingdom, so anyone reading this should not hope for too much in terms of amazing quality productions at least until graduation. 
 
-## Features
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+### Topics
 
-## Skins
+I refuse to post about my coursework, it seems incredibly picante, with one major exception being that I may post about my progress on my dissertation. I'll spend a fair amount of time going over the development of my home server from scratch, I will use it as a test environment, hopefully run VM's off it once it is more powerful, and let it manage things I don't feel like managing. I'll also be blogging on a future project to develop a secure sensor platform to provide inconspicuous, secure motion sensors in the home with it's own command and control server in a home device you might not expect! You can also expect posts about astronomy, being paranoid in an increasingly public world, online privacy, quantum computer, quantum cryptography (even if it is beyond my ken), cryptography, US, UK, and European infringements on peoples privacy, and when I am particularly proud of a developed recipe maybe a recipe or two. If the reader is truly unlucky I might just go ahead and post about the NHL or KHL, let's hope it doesn't get that loose.
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+Also, I will be posting a lot about the process taken to do my blog posts, I would not use my blog as a reference or tutorial on the best way to do something! There are much more explicitely tutorial focused blogs out there!
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+### Contact me
+Do you have any questions about anything I have written about? Have I been speaking out of my ass completely and should correct something? Want to just chit-chat about something I have written about? Feel free to contact me and I will try and respond as quickly as I can!
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+Feel free to send me an email over protonmail!
+[HuasoTech@protonmail.com](mailto:HuasoTech@protonmail.com)
+ **Note that the communications will only be secure if you contact me from a protonmail account as well**
+ 
 
-### Highlight Theme
+I can also be reached on **Signal**, **Briar**, and **Wickr**, if you prefer any of those methods send me an email with how I can reach you and we can communicate securely there!
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+Stay tuned for my eventual matrix server to allow for some decentralized community communications!
