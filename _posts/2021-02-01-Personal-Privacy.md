@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Are Very Thick Walls a Recipe For Cabin Fever?
+tags: Personal Privacy
 ---
 ## This Post.
 
