@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The First of Many
 tags: Personal Projects Servers
 ---
