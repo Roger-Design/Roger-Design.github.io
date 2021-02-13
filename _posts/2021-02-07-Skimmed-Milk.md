@@ -7,7 +7,7 @@ header:
 article_header:
   type: cover
   image:
-    src: assets/header/skim.jpg
+    src: assets/header/skim.png
 ---
 
 ## Magnets, Burglaries, Bluetooth, Faraday,
