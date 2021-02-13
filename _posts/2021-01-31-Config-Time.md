@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Setup and Configuration at Last
 tags: Personal Projects Servers
 ---

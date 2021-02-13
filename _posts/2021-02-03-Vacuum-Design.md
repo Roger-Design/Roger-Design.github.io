@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Beauty, Function, Form... A.K.A Autonomous Vacuums
 tags: Projects Vacuums
 ---

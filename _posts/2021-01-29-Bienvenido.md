@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bienvenido & What is this for?
 tags: Personal
 ---
