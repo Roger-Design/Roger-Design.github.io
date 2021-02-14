@@ -1,6 +1,13 @@
 ---
 title: Beauty, Function, Form... A.K.A Autonomous Vacuums
 tags: Projects Vacuums
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: cover
+  image:
+    src: assets/header/roomba.jpeg
 ---
 
 ## Vacuums?
