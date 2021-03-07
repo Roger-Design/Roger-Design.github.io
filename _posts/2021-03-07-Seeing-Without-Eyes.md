@@ -1,6 +1,6 @@
 ---
 title: Seeing Without Eyes
-tags: Personal Vaccuum
+tags: Personal Vacuums Projects
 mode: immersive
 header:
   theme: dark
