@@ -125,7 +125,7 @@ I think the best use of these is for diagnostics, detection is doable but a bit 
 
 #### Thermographic Cameras and Other Camera Based Sensors
 
-![Infrared Pomito](/assets/posts/infrared_pom.jpg)
+![Infrared Pomito](/assets/posts/Infrared_pom.jpg)
 (image source: wikipedia.com)
 
 Cameras are probably not an option for the roomba. These are going to be computationally and electronically expensive to implement. The basic premise of using any type of optical sensor would be to create a 2D or 3D image and to then use image processing software to see how far things are, and to tell if there is movement going on in the image. This isn't as expensive as a recording device, but if we are implementing cameras on the board we might as well store relevant information. One possible usage would be if there are not other devices connected to embed a thermographic camera in the device. Then when we detect movement via some way it snaps an infrared snapshot of the space it detected the movement for later review.
