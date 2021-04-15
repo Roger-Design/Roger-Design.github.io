@@ -1,4 +1,4 @@
-
+---
 title: People Are Strange/Strange Days
 tags: Personal Privacy Waste-Of-Your-Time
 mode: immersive
@@ -132,4 +132,5 @@ And that is all I have for now, it took me ages to write this (end of the semest
 ## Actual References?!?!
 
 (1) Junge, M. B. (1994). The perception of doors: A sociodynamic investigation of doors in 20th century painting. The Arts in Psychotherapy, 21(5), 343–357. https://doi.org/10.1016/0197-4556(94)90062-0
+
 (2) M. Blaze, "Rights amplification in master-keyed mechanical locks," in IEEE Security & Privacy, vol. 1, no. 2, pp. 24-32, March-April 2003, doi: 10.1109/MSECP.2003.1193208.
